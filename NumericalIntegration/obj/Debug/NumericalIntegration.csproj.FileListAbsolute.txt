@@ -1,0 +1,7 @@
+C:\Users\Nauka\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\NumericalIntegration.exe.config
+C:\Users\Nauka\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\NumericalIntegration.exe
+C:\Users\Nauka\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\NumericalIntegration.pdb
+C:\Users\Nauka\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\NumericalIntegration.csprojAssemblyReference.cache
+C:\Users\Nauka\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\NumericalIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Nauka\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\NumericalIntegration.exe
+C:\Users\Nauka\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\NumericalIntegration.pdb
